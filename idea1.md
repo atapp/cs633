@@ -11,7 +11,7 @@ Ask Harold is a news **chat-bot** with the UI of a chat with a Elephant.
 
  1. Chat interface
  2. Responds with casual chit chat or tech news
- 3. Simple UI
+ 3. Delivered in browser
 
 ## Example tests
 
