@@ -1,4 +1,4 @@
-# Project Idea 1 
+# Project Idea 2
 
 Sql Browser
 
