@@ -24,4 +24,4 @@ Sql Browser is a simple **Sql Browser** .
  3. [React](https://reactjs.org/)
 
 ## Quick wireframe
-![Mockup of design (v quick!)](https://raw.githubusercontent.com/atapp/cs633/master/elewhole.png)
+![Mockup of design (v quick!)](https://raw.githubusercontent.com/atapp/cs633/master/Screen%20Shot%202020-01-25%20at%2008.42.51.png)
