@@ -1,28 +1,27 @@
 # Project Idea 1 
 
-Ask Harold
-
+Sql Browser
 
 # Overview
 
-Ask Harold is a news **chat-bot** with the UI of a chat with a Elephant.
+Sql Browser is a simple **Sql Browser** .
 
 ## Functional requirements
 
- 1. Chat interface
- 2. Responds with casual chit chat or tech news
- 3. Delivered in browser
+ 1. Allows CRUD of local SQL databases
+ 2. Runs on local machine
+ 3. Deployable
 
 ## Example tests
 
- 1. User enters 'how is life with you?' - Harold replies 'cant complain, the waterholes been bustling these past few weeks'
- 2. User enters 'i want to know more about bitcoin' - Harold replies 'sure, heres a link: `insert link from news api `
+ 1. User clicks Create Table button - System shows Modal with create table dialog.
+ 2. USer sends table update - Tableisupdated on local server.
 
 ## Systems used
 
- 1. [Dialogflow](https://dialogflow.cloud.google.com/) 
- 2. [News Api](https://newsapi.org/)
+ 1. [Node](https://nodejs.org/en/) 
+ 2. [Knex](https://knexjs.org/)
  3. [React](https://reactjs.org/)
 
 ## Quick wireframe
-![enter image description here](https://raw.githubusercontent.com/atapp/cs633/master/elewhole.png)
+![Mockup of design (v quick!)](https://raw.githubusercontent.com/atapp/cs633/master/elewhole.png)
